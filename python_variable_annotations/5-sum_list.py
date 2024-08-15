@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from Typing import List
+from typing import List
 """
 Type-annotated sum_list
 """
