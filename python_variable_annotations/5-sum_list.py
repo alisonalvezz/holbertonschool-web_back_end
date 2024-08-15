@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"sum list"
+
 from typing import List
 """
 Type-annotated sum_list
