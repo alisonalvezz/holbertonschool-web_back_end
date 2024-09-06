@@ -1,0 +1,2 @@
+// my comment
+my_db.school.insert({ name: 'Holberton school' })
